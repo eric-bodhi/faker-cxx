@@ -1,7 +1,12 @@
 var annotated_dup =
 [
     [ "faker", null, [
-      [ "Airline", "classfaker_1_1Airline.html", "classfaker_1_1Airline" ],
+      [ "airline", null, [
+        [ "AirlineInfo", "structfaker_1_1airline_1_1AirlineInfo.html", null ],
+        [ "Airplane", "structfaker_1_1airline_1_1Airplane.html", null ],
+        [ "Airport", "structfaker_1_1airline_1_1Airport.html", null ],
+        [ "Range", "structfaker_1_1airline_1_1Range.html", null ]
+      ] ],
       [ "Animal", "classfaker_1_1Animal.html", null ],
       [ "Book", "classfaker_1_1Book.html", null ],
       [ "CharCount", "structfaker_1_1CharCount.html", null ],
@@ -40,7 +45,7 @@ var annotated_dup =
       [ "System", "classfaker_1_1System.html", null ],
       [ "Vehicle", "classfaker_1_1Vehicle.html", null ],
       [ "VideoGame", "classfaker_1_1VideoGame.html", null ],
-      [ "Weather", "classfaker_1_1Weather.html", "classfaker_1_1Weather" ],
+      [ "Weather", "classfaker_1_1Weather.html", null ],
       [ "Word", "classfaker_1_1Word.html", null ]
     ] ]
 ];
